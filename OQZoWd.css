@@ -1,0 +1,74 @@
+.title-name {
+  color: #80BAE9 !important;
+}
+.profile-image{
+  width: 90%;
+  margin: auto;
+  display: block;
+  border-color: gray;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 25%;
+}
+.divider{
+  background-color: #E0E0E0; 
+  height: 5px; 
+  border: 0;
+  width: 90%;
+  margin-top: 30px;
+}
+.portfolio-header{
+  color: #008080;
+}
+.flex-group {
+  display: flex; 
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.flex-column {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  width: 450px;
+  margin: 0 auto;
+}
+.portfolio-image{
+  max-width: 100%;
+  border-color: gray;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 5%;
+  margin-top: 30px;
+}
+.link-styles{
+  color: #0080FF;
+  text-decoration: underline;
+  margin-bottom: 20px;
+}
+.panel {
+  margin-top: 5px;
+}
+.site-title{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.contact-box{
+  background-color: #E7E6E7;
+  margin: auto;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  width: 60%;
+}
+.button-margins{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#linkedin-icon{
+  color: #0077B5;
+}
+#github-icon{
+  color: #333;
+}
+#freecodecamp-icon{
+  color: #006400;
+}
